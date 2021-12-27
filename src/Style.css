@@ -1,0 +1,46 @@
+
+
+body {  
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 400px;
+  min-width: 400px;
+}
+
+.card {
+  width : 500px ;
+  height : 350px;
+}
+
+.title {
+  font-weight: 700;
+  font-size: 50px;
+}
+
+.c-table{
+  margin-left : -19px;
+}
+
+table {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  overflow-x: auto;
+}
+.center {
+ 
+  display: flex;
+  justify-content: center;
+}
+.img{
+  width: 70px;
+  height: 70px;
+}
+
+.jumbotron {
+  height: 210px;
+  padding: 1rem 2rem !important;
+}
